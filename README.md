@@ -8,7 +8,7 @@
 
 Just as the **Rosetta Stone** provided the key to deciphering ancient Egyptian hieroglyphs by comparing them to known Greek, **Nuclear-Rosetta** serves as a bridge between the battle-tested legacy codes of Theoretical Nuclear Physics (mostly Fortran 77/90) and the modern era of Scientific Computing (C++, Python/JAX, Julia).
 
-This repository is dedicated to the preservation, translation, and modernization of essential nuclear physics algorithms, leveraging the power of **Generative AI** (LLMs like Claude 3.5 Sonnet, GPT-4) to accelerate the refactoring process while maintaining rigorous scientific accuracy.
+This repository is dedicated to the preservation, translation, and modernization of essential nuclear physics algorithms, leveraging the power of **Generative AI** to accelerate the refactoring process while maintaining rigorous scientific accuracy.
 
 ## 🚀 Mission
 
